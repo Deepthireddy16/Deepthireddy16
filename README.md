@@ -7,4 +7,4 @@ MS Computer Science student at Florida Polytechnic University (May 2027), focuse
 ## 🛠️ Tech
 Python | PyTorch | HuggingFace | LangGraph | Ollama | ChromaDB | FastAPI | Docker | PostgreSQL
 ## 📫 Reach me
-[LinkedIn](https://linkedin.com/in/deepthi-reddy-chelladi) · chelladideepthi@gmail.com
+[LinkedIn](https://linkedin.com/in/deepthi-reddy-chelladi) · deepthichelladi@gmail.com
